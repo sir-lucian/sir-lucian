@@ -1,4 +1,4 @@
-# [Sir Lucian 🎩](#sir-lucian)
+# Sir Lucian 🎩
 ### Karn Kamolnavin
 
 ![Sir Lucian](https://lucian.solutions/images/111t.png)
