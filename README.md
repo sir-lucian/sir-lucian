@@ -1,7 +1,7 @@
 # Sir Lucian 🎩
 ### Karn Kamolnavin
 
-![Sir Lucian](https://lucian.solutions/images/111t.png)
+![Sir Lucian](https://lucian.solutions/images/155t.png)
 
 **Developer & Illustrator**\
 This public profile is mainly working on widgets & tools for neighbouring streamers & vtubers
