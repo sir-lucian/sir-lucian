@@ -1,4 +1,12 @@
-### Hi there 👋
+# Sir Lucian 🎩
+### Karn Kamolnavin
+
+![Sir Lucian](https://lucian.solutions/images/111t.png)
+
+**Developer & Illustrator**\
+This public profile is mainly working on widgets & tools for neighbouring streamers & vtubers
+
+[lucian.solutions](https://lucian.solutions/)
 
 <!--
 **lucidkarn/lucidkarn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
