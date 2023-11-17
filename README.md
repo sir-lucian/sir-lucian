@@ -12,7 +12,7 @@ This public profile is mainly working on widgets & tools for neighbouring stream
 | [**LuciaBot**](https://github.com/lucidkarn/luciabot) | Custom bot for testing social network APIs using NodeJs |
 | [**Twitch Chat Overlay**](https://github.com/lucidkarn/tw-custom-chat-overlay) | Using Streamlabs APIs for customised Twitch chat overlay |
 | [**Lucian Solutions**](https://lucian.solutions/) | Personal blog & image storage |
-| [**DJMax Respect V**](https://store.steampowered.com/app/960170/DJMAX_RESPECT_V/) | DPC Pattern Designer (2022-2023) |
+| [**DJMax Respect V**](https://store.steampowered.com/app/960170/DJMAX_RESPECT_V/) | Pattern Designer, DPC (2022-2023) |
 
 <!--
 **lucidkarn/lucidkarn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
