@@ -7,9 +7,9 @@ This public profile is mainly working on widgets & tools for neighbouring stream
 | Projects | Description |
 | ---- | ---- |
 | [**LuciaBot**](https://github.com/sir-lucian/luciabot) | Custom bot for testing social network APIs using NodeJs |
-| [**Twitch Chat Overlay**](https://github.com/sir-lucian/tw-custom-chat-overlay) | Using Streamlabs APIs for customised Twitch chat overlay |
 | [**Lucian Solutions**](https://lucian.solutions/) | Personal blog & image storage |
 | [**DJMax Respect V**](https://store.steampowered.com/app/960170/DJMAX_RESPECT_V/) | Pattern Designer (2022-) |
+| [**VirtUp**](https://virtup.me/) | Web Devloper & Server Admin |
 
 <!--
 **lucidkarn/lucidkarn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
